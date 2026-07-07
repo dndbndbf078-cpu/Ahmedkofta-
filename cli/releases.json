@@ -1,0 +1,22 @@
+[
+  {
+    "id": "v6",
+    "branch": "release/v6"
+  },
+  {
+    "id": "v7",
+    "branch": "release/v7"
+  },
+  {
+    "id": "v8",
+    "branch": "release/v8"
+  },
+  {
+    "id": "v9",
+    "branch": "release/v9"
+  },
+  {
+    "id": "v10",
+    "branch": "latest"
+  }
+]
