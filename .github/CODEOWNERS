@@ -1,0 +1,21 @@
+* @npm/cli-team
+
+# Content
+/.github/CODEOWNERS   @leobalter @npm/cli-team
+/content/             @leobalter @npm/cli-team
+/src/                 @leobalter @npm/cli-team
+/static/              @leobalter @npm/cli-team
+/CONTENT-MODEL.md     @leobalter @npm/cli-team
+
+# Policies
+/content/policies/    @leobalter
+/CODE_OF_CONDUCT.md   @leobalter
+
+# Licensing
+/.reuse/              @leobalter @npm/cli-team
+/LICENSES/            @leobalter
+/LICENSE              @leobalter
+/LICENSE-CODE         @leobalter
+
+# CLI
+/content/cli/         @npm/cli-team
